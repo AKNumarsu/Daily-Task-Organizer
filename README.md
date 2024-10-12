@@ -27,5 +27,5 @@ C:\Data\bin\mongod.exe
 Now, start the development environment with the following command:
 
 ```
-npm run dev
+npm run start-dev
 ```
