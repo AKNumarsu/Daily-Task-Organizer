@@ -26,40 +26,40 @@ export const defaultState = {
     }
     ],
     tasks:[{
-        name:"Refactor tests",
+        name:"Psychology assignment",
         id:"T1",
         group:"G1",
         owner:"U1",
         isComplete:false,
     },{
-        name:"Meet with CTO",
+        name:"Wash dishes",
         id:"T2",
         group:"G1",
         owner:"U1",
-        isComplete:true,
+        isComplete:false,
     },{
-        name:"Compile ES6",
+        name:"Read a book",
         id:"T3",
         group:"G2",
         owner:"U2",
         isComplete:false,
     },{
-        name:"Update component snapshots",
+        name:"Math assignment",
         id:"T4",
         group:"G2",
         owner:"U1",
-        isComplete:true,
+        isComplete:false,
     },{
-        name:"Production optimizations",
+        name:"Run a mile",
         id:"T5",
         group:"G3",
         owner:"U1",
-        isComplete:false,
+        isComplete:true,
     }],
     comments:[{
         owner:"U1",
         id:"C1",
         task:"T1",
-        content:"Great work!"
+        content:"Please start me!"
     }]
 };
